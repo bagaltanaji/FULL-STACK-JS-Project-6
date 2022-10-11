@@ -1,6 +1,6 @@
 # FULL-STACK-JS-Project-6
 ## What I Learned from this Project?
- *Learned to use flex grow, shrink & basis
+ * Learned to use flex grow, shrink & basis
  ## Project Link -[Link](https://gleaming-paletas-291de6.netlify.app/)
  ## This project took around 3 hours to complete.
  ## Screenshot -
